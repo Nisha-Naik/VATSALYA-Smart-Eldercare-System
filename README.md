@@ -19,7 +19,7 @@
 
 ## 🧭 The Problem We're Solving
 
-India has over **140 million elderly citizens**. Many live alone or with family who work long hours. Falls, cardiac events, and medication lapses go undetected for hours — sometimes days. Existing solutions demand too much from the elderly themselves: app logins, complex UIs, constant interaction.
+
 
 **Vatsalya flips the model.** The child (caregiver) takes ownership. The parent does almost nothing — and yet is fully monitored, protected, and connected.
 
