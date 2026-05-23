@@ -27,7 +27,6 @@
 
 ## What is Vatsalya?
 
-India has over **140 million elderly citizens**. Many live alone or with family who work long hours. Falls, cardiac events, and medication lapses go undetected for hours — sometimes days. Existing solutions demand too much from the elderly themselves: app logins, complex UIs, constant interaction.
 
 **Vatsalya** (Sanskrit: *वात्सल्य*, meaning unconditional parental love) is a full-stack, real-time healthcare monitoring platform built for families with elderly members.
 
